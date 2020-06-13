@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=RSS_Reader
+Comment=RSS_Reader Kirigami Application
+Version=1.0
+Exec=rss_reader
+MimeType=application/x-rss_reader;
+Icon=quiterss
+Type=Application
+Terminal=false
+Categories=Qt;KDE;

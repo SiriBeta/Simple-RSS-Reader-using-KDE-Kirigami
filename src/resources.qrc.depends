@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="contents/ui/main.qml">contents/ui/main.qml</file>
+        <file alias="contents/ui/banner.jpg">contents/images/banner.jpg</file>
+        <file alias="contents/ui/AboutSheet.qml">contents/ui/AboutSheet.qml</file>
+        <file alias="contents/ui/MainPage.qml">contents/ui/MainPage.qml</file>
+        <file alias="contents/ui/FeedPage.qml">contents/ui/FeedPage.qml</file>
+        <file alias="contents/ui/RssListView.qml">contents/ui/RssListView.qml</file>
+        <file alias="contents/ui/models/RssFeedModel.qml">contents/ui/models/RssFeedModel.qml</file>
+        <file>contents/ui/components/NoConnectPage.qml</file>
+    </qresource>
+</RCC>
