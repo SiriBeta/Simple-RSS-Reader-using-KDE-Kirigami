@@ -7,3 +7,8 @@
 
 This program is an example of a simple RSS Reader developed using the Kirigami framework. 
 This program demonstrates the use of basic components of the framework and is not intended for everyday use by the user.
+
+# Screenshots
+
+<img src="https://gitlab.com/SiriBeta/simple-rss-reader-using-kde-kirigami/-/raw/master/screenshots/1.png?inline=false" alt="screenshots/1.png" height="250">
+<img src="https://gitlab.com/SiriBeta/simple-rss-reader-using-kde-kirigami/-/raw/master/screenshots/2.png?inline=false" alt="screenshots/2.png" height="250">
